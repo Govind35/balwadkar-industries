@@ -1,8 +1,12 @@
 import React from "react";
+import {Nav} from './Navbar.element'
+
 
 const NavBar = () => {
   return (
-      <h1>Govind</h1>
+      <Nav>
+        
+      </Nav>
     );
 };
 
